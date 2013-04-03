@@ -4,6 +4,42 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
+.topbar {
+	background: url(top-grey-bar.png) repeat-x top left;
+	height: 61px;
+}
+
+.titlecontainer {
+	background: white;
+	height: 80px;
+}
+
+.maincontainer {
+	background: rgb(241, 240, 236);
+	height: 500px;
+}
+
+.concertpic {
+	margin-top: 25px;
+}
+
+
+.suggestionscontainer {
+	background: white;
+	height: 400px;
+}
+
+.watchpic {
+	
+}
+
+.appetizerpic {
+	margin-top: 116px;
+}
+
+.twistedpic {
+	margin-top: 116px;
+}
 
 .button {
 	width: 100px;
