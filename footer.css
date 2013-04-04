@@ -35,7 +35,7 @@ body {
 	font-size: 17px;
 	color: white;
 	float: left;
-	margin-left: 40px;
+	margin-left: 50px;
 }
 
 .john-doe {
@@ -45,6 +45,12 @@ body {
 .titlecontainer {
 	background: white;
 	height: 80px;
+}
+
+.u2titletext {
+	color: rgb(82, 82, 82);
+	font-size: 30px;
+	padding: 20px 0px;
 }
 
 .maincontainer {
@@ -234,7 +240,7 @@ body {
 }
 
 .watch-timer-img. {
-	
+
 }
 
 .watchtimer {
