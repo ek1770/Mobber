@@ -195,20 +195,47 @@ body {
 	margin-top: 15px;
 }
 
+.status-text {
+	font-size: 14px;
+	font-weight: lighter;
+	text-shadow: none;
+	margin-top: 10px;
+}
+
 .stats {
 	text-align: left;
-	font-size: 20px;
+	font-size: 22px;
 	padding-left: 20px;
 	padding-top: 13px;
 	text-shadow: none;
 	font-weight: bold;
 }
 
-.smaller {
+.stats-views {
+	margin-left: 15px;
+}
+
+.stats-mobbers {
+	margin-left: 0px;
+}
+
+.stats-reach {
+	margin-left: -5px;
+}
+
+.stats-time {
+	margin-left: -10px;
+}
+
+table {
 	font-size: 14px;
-	padding-top: 8px;
-	text-shadow: none;
+	margin-top: 5px;
 	font-weight: lighter;
+}
+
+.column-left {
+	font-weight: bolder;
+	text-align: right;
 }
 
 
